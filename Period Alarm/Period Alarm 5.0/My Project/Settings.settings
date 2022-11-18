@@ -1,0 +1,99 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="BellFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\bell1.mp3</Value>
+    </Setting>
+    <Setting Name="CMGFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sounds\gatha.mp3</Value>
+    </Setting>
+    <Setting Name="sp1" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 08:20:00</Value>
+    </Setting>
+    <Setting Name="sp2" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 09:00:00</Value>
+    </Setting>
+    <Setting Name="sp3" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 09:40:00</Value>
+    </Setting>
+    <Setting Name="sp4" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 10:20:00</Value>
+    </Setting>
+    <Setting Name="sbr" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 10:40:00</Value>
+    </Setting>
+    <Setting Name="sp5" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 11:20:00</Value>
+    </Setting>
+    <Setting Name="sp6" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 12:00:00</Value>
+    </Setting>
+    <Setting Name="sp7" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 12:40:00</Value>
+    </Setting>
+    <Setting Name="sp8" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 13:20:00</Value>
+    </Setting>
+    <Setting Name="sf1" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 13:23:00</Value>
+    </Setting>
+    <Setting Name="sf2" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 13:25:00</Value>
+    </Setting>
+    <Setting Name="sf3" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">02/26/2016 13:30:00</Value>
+    </Setting>
+    <Setting Name="RngMsgTM" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShwWar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SPassWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">buddhika</Value>
+    </Setting>
+    <Setting Name="MainLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">20, 20</Value>
+    </Setting>
+    <Setting Name="RngMsgLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">30, 30</Value>
+    </Setting>
+    <Setting Name="sDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="sPrdDur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="sBrBDur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="sBrEDur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="sF1Dur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="sF2Dur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="sF3Dur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="ShtDwn" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="sVolume" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="AskRW" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Protect" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="NBRDur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

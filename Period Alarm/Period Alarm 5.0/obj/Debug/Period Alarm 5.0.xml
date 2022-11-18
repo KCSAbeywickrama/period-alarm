@@ -1,0 +1,220 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PeriodAlarm5.0
+</name>
+</assembly>
+<members>
+<member name="P:Period_Alarm_5._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._10397">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._1108">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._1156">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._133">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._134">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._135">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._136">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._153">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._157">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._1603">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._179x179png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._31267">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._3282__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._41755">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources._417551">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.a">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Apps_preferences_desktop_notification_bell_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.bel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Close_Box_Red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Close_Box_Red_Edited">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Close_Box_Red_Edited1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.csa3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Down2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.download__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.Frame1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.frame2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.frame2_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.gear_47203_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ico_big_red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ico_big_red1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ico_big_yellow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ico_danger_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ico_info_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ico_warning_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.images__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.images__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.jghjg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ringing_bell_glossy_rounded_button_blue_version_15fgvrgr6345914">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.ringing_bell_grx_btn_metallic_red_version_159828971">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.stock_photo_alarm_red_circle_web_glossy_icon_135731207">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.stock_photo_alarm_red_circle_web_glossy_iconfhgfh_135731207">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.stock_photo_alarm_red_circle_web_glossy_iconfhgfh_1357312071">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.up_button_icon_13053">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Period_Alarm_5._0.My.Resources.Resources.up_button_icon_130532">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Period_Alarm_5._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,189 @@
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\AppData\Local\Temporary Projects\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.AboutBox.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 5.0 - Copy - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ShutDownMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.AboutBox.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ShutDownMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.AboutBox.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ShutDownMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 1 - Copy - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.SplashForm.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.AboutBox.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ShutDownMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.SplashForm.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.pdb
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\bin\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\bin\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.AboutBox.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ChngSPassword.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.CustomMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.EnterPass.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Form1.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.Resources.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.PASettings.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.RingingMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.ShutDownMsg.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period_Alarm_5._0.SplashForm.resources
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm 2 - Copy - Copy (2)\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.GenerateResource.Cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\bin\Debug\Period Alarm 5.0.exe.config
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\obj\Debug\Interop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\obj\Debug\AxInterop.WMPLib.dll
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.vbproj.ResolveComReference.cache
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.exe
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.xml
+D:\Chamod\Chamod\Visual Basic Professional 2013\Period Alarm final1\Period Alarm 5.0\obj\Debug\Period Alarm 5.0.pdb

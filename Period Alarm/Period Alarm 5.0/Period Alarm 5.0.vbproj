@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBE59257-E163-4C67-8185-5039EAE2D11A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Period_Alarm_5._0.My.MyApplication</StartupObject>
+    <RootNamespace>Period_Alarm_5._0</RootNamespace>
+    <AssemblyName>Period Alarm 5.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Period Alarm 5.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Period Alarm 5.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.Designer.vb">
+      <DependentUpon>AboutBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChngSPassword.Designer.vb">
+      <DependentUpon>ChngSPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChngSPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomMsg.Designer.vb">
+      <DependentUpon>CustomMsg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomMsg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterPass.Designer.vb">
+      <DependentUpon>EnterPass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EnterPass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PASettings.Designer.vb">
+      <DependentUpon>PASettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PASettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RingingMsg.Designer.vb">
+      <DependentUpon>RingingMsg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RingingMsg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShutDownMsg.Designer.vb">
+      <DependentUpon>ShutDownMsg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ShutDownMsg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashForm.Designer.vb">
+      <DependentUpon>SplashForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChngSPassword.resx">
+      <DependentUpon>ChngSPassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomMsg.resx">
+      <DependentUpon>CustomMsg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterPass.resx">
+      <DependentUpon>EnterPass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PASettings.resx">
+      <DependentUpon>PASettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RingingMsg.resx">
+      <DependentUpon>RingingMsg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShutDownMsg.resx">
+      <DependentUpon>ShutDownMsg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashForm.resx">
+      <DependentUpon>SplashForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Box_Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31267.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\134.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\153.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\135.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\136.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up-button-icon-130532.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up-button-icon-13053.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jghjg.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Frame1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frame2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frame2-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\133.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\157.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1603.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3282 %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_big_yellow.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_info_48.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41755.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1108.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10397.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\417551.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1156.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_big_red.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Box_Red Edited.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Box_Red Edited1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_warning_48.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_big_red1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_danger_48.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ringing-bell-grx-btn-metallic-red-version_159828971.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ringing-bell-glossy-rounded-button-blue-version_15fgvrgr6345914.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-alarm-red-circle-web-glossy-icon-135731207.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-alarm-red-circle-web-glossy-iconfhgfh-135731207.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bel.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\179x179png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\csa3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gear-47203_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-preferences-desktop-notification-bell-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-photo-alarm-red-circle-web-glossy-iconfhgfh-1357312071.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bel.ico" />
+    <Content Include="icon1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
