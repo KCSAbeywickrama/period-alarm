@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="p1" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 08:20:00</Value>
+    </Setting>
+    <Setting Name="p2" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 09:00:00</Value>
+    </Setting>
+    <Setting Name="p3" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 09:40:00</Value>
+    </Setting>
+    <Setting Name="p4" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 10:20:00</Value>
+    </Setting>
+    <Setting Name="int" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 10:40:00</Value>
+    </Setting>
+    <Setting Name="p5" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 11:20:00</Value>
+    </Setting>
+    <Setting Name="p6" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 12:00:00</Value>
+    </Setting>
+    <Setting Name="p7" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 12:40:00</Value>
+    </Setting>
+    <Setting Name="p8" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">11/22/2014 13:20:00</Value>
+    </Setting>
+    <Setting Name="spw" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="durb2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1500</Value>
+    </Setting>
+    <Setting Name="ringdur" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,83 @@
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\period alarm.exe.manifest
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\period alarm.application
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\period alarm.exe
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\period alarm.pdb
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\period alarm.xml
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.vbproj.GenerateResource.Cache
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.exe.manifest
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.application
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.exe
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.xml
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.pdb
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\period alarm.vbproj.ResolveComReference.cache
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\Period Alarm.exe.config
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\Interop.MSComDlg.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\obj\x86\Release\AxInterop.MSComDlg.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\Interop.MSComDlg.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm\period alarm\bin\Release\AxInterop.MSComDlg.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Period Alarm.exe.config
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\period alarm.vbproj.ResolveComReference.cache
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\Period Alarm.exe
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\Period Alarm.xml
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\Period Alarm.pdb
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Period Alarm.exe.manifest
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Period Alarm.application
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Period Alarm.exe
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Period Alarm.pdb
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Period Alarm.xml
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\bin\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\period alarm.vbproj.GenerateResource.Cache
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\Period Alarm.exe.manifest
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\Period Alarm.application
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\bin\Release\Period Alarm.exe.config
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\Interop.MSComDlg.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\AxInterop.MSComDlg.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\period alarm.vbproj.ResolveComReference.cache
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\Period Alarm.exe
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\Period Alarm.xml
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0 - Copy\period alarm\obj\x86\Release\Period Alarm.pdb
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.Edit.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.EditMsg.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.EditSou.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.EditTimes.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.msg.resources
+D:\LAB\Chamod\VB 2010 Express\period alarm 4.0\period alarm\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Period Alarm.exe.config
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\period alarm.vbproj.ResolveComReference.cache
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\Period Alarm.exe
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\Period Alarm.xml
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\Period Alarm.pdb
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Period Alarm.exe.manifest
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Period Alarm.application
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Period Alarm.exe
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Period Alarm.pdb
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Period Alarm.xml
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\Interop.WMPLib.dll
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\bin\Release\AxInterop.WMPLib.dll
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.Edit.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.EditMsg.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.EditSou.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.EditTimes.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.msg.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\period alarm.vbproj.GenerateResource.Cache
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\Period Alarm.exe.manifest
+D:\LAB\Chamod\Visual Basic Professional 2013\Period Alarm(HW) v1.0\period alarm\obj\x86\Release\Period Alarm.application
